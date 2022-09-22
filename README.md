@@ -1,2 +1,2 @@
 # repo2
-bless yanlin
+bless
